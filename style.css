@@ -20,6 +20,7 @@ section {
     text-align: center;
 }
 footer {
+    margin-top: auto;
     background-color: #333;
     color: white;
     text-align: center;
