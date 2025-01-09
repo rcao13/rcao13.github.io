@@ -14,10 +14,10 @@ section {
     padding: 20px;
     text-align: center;
 }
-html, body {
+/*html, body {
     height: 100%; 
     margin: 0; 
-}
+}removed this what happens*/
 
 body {
     display: flex;
