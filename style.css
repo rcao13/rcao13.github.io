@@ -19,12 +19,12 @@ section {
     margin: 0; 
 }removed this what happens*/
 
-body {
+/*body {
     display: flex;
     flex-direction: column;
 }
 
-/*main {
+main {
     flex-grow: 1; 
 }*/
 footer {
@@ -36,10 +36,12 @@ footer {
 
 .container{
     text-align: center;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
+    padding: 30px;
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+    width: 100px;
     background-color: #487cff;
+    margin:auto;
 }
 .counter {
     font-size: 2em;
