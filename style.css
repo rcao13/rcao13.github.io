@@ -24,9 +24,9 @@ body {
     flex-direction: column;
 }
 
-main {
+/*main {
     flex-grow: 1; 
-}
+}*/
 footer {
     background-color: #333;
     color: white;
@@ -36,7 +36,7 @@ footer {
 
 .container{
     text-align: center;
-    padding: 2000px;
+    padding: 20px;
     border: 1px solid #ccc;
     border-radius: 10px;
     background-color: #487cff;
