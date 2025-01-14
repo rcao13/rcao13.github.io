@@ -19,14 +19,14 @@ section {
     margin: 0; 
 }removed this what happens*/
 
-/*body {
+body {
     display: flex;
     flex-direction: column;
 }
 
 main {
     flex-grow: 1; 
-}*/
+}
 footer {
     background-color: #333;
     color: white;
@@ -38,8 +38,9 @@ footer {
     text-align: center;
     padding: 30px;
     border: 2px solid #ffffff;
+    color: white;
     border-radius: 50px;
-    width: 100px;
+    width: 250px;
     background-color: #487cff;
     margin:auto;
 }
